@@ -1,2 +1,2 @@
 # karma
-Karma - WebSlides built with ClojureScript
+Karma - Presentations that are Good.
